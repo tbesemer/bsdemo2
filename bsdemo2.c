@@ -9,5 +9,6 @@ void addStuff()
 int main()
 {
     printf( "Hello from the CMAKE world\n" );
+    addStuff();
     exit( 0 );
 }
